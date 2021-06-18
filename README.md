@@ -53,57 +53,39 @@ The idea is to empower communities by capturing similar kind of injustice faced 
 SDG-Peace and Justice:The idea is to empower communities by capturing similar kind of injustice faced by people around us. The goal is to create a solution that could aid in the avoidance and de-escalation of incidents, and provide visibility and opportunities for people to come up and support others with the experience they gained while tackling the same issue.
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://www.youtube.com/watch?v=2nPC_KJYwgw)
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
-
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1.	Post an Incident 
+2.	Search for an Incident 
+3.	Get Advice/ raise a query 
+4.  IBM Cloudant stores data and gives you result
+5. 	Know your rights and Act accordingly
 
 ## Project roadmap
 
-We are building an app where people will share their as well as social problems, will learn about the various human rights in a desirable time and with no cost.
--It will inspire people to shed light on this issue and provide them a starting point to handle difficult situations/incidents.
--It will encourage members of the public to capture incidents that might otherwise go unwitnessed.
--Display patterns and correlations of incidents that can be grouped by time, location, and type to better understand the scenario.
-![image](https://user-images.githubusercontent.com/9826319/122584801-68553680-d078-11eb-8c60-074c4f619e66.png)
+1.	There will be three kind of users for “” system
+-	Help seekers posting about the issues/incidents happened to him or around.
+-	People who will make suggestions to seeker.
+-	People who will just share their experiences and steps they took that may help someone else in need. 
+2.	Post an Incident 
+-Anyone who is going through any dilemma or is feeling awkward while sharing anything happened to him/her can post it and ask for suggestions.
+
+-Here, anyone can share anything that has happened around him and need guidance on what next steps he/she would take. Also, he/she can post anything inspiring that may help other seekers.
+
+3.	Search for an Incident 
+Anyone who is not aware of what steps he/she should take in case of mis-happenings and doesn’t have much to pay can search for the prev. Incidents that might have happened and can seek direction/guidance to proceed via others experiences.
+
+4.	Get Advice/ raise a query 
+Anyone can post a query as anonymous user and anyone anonymously can answer his/her query.
+
+5.	Know your rights and Act accordingly
+Here we have a page where people will get guidance on what all rights do they have and what steps he/she can take as per so and so act.
+
+6.	Get help from an NGO
+We have such cases where people may need help financially or they need security. In such cases, they can seek help from various NGOs by posting over there.  
 
 
-## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
-
-## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
-
-## Built with
-
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-## License
