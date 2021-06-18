@@ -18,18 +18,17 @@ This application shows how to connect to a Cloudant database using the official 
     - [The idea](#the-idea)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
-  - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
-  - [Live demo](#live-demo)
-  - [Built with](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+  - [Future Scope](#future-scope)
+  
 
 ## Short description
+
+-We are building an app where people will share their as well as social problems, will learn about the various human rights in a desirable time and with no cost.
+-It will inspire people to shed light on this issue and provide them a starting point to handle difficult situations/incidents.
+-It will encourage members of the public to capture incidents that might otherwise go unwitnessed.
+-Display patterns and correlations of incidents that can be grouped by time, location, and type to better understand the scenario.
+
 
 ### What's the problem?
 
@@ -56,6 +55,8 @@ SDG-Peace and Justice:The idea is to empower communities by capturing similar ki
 [![Watch the video] <iframe width="560" height="315" src="https://www.youtube.com/embed/2nPC_KJYwgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The architecture
+![image](https://user-images.githubusercontent.com/9826319/122588032-38a82d80-d07c-11eb-8f9b-5f72cc3810df.png)
+
 
 1.	Post an Incident 
 2.	Search for an Incident 
@@ -86,6 +87,10 @@ Here we have a page where people will get guidance on what all rights do they ha
 6.	Get help from an NGO
 We have such cases where people may need help financially or they need security. In such cases, they can seek help from various NGOs by posting over there.  
 
+
+## Future Scope
+-Enable members of the public to record incidents through a mobile app in a quick, near real   time, and safe manner
+-Central map view to enable search & visualization of incident clusters
 
 
 
