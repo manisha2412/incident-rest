@@ -1,0 +1,9 @@
+export interface IAddNewIncident {
+    id: string;
+    description: string;
+    location: string;
+    state: string;
+    city: string;
+    topic: string;
+    incidentCategory: string;
+}
