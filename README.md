@@ -54,7 +54,7 @@ The idea is to empower communities by capturing similar kind of injustice faced 
 SDG-Peace and Justice:The idea is to empower communities by capturing similar kind of injustice faced by people around us. The goal is to create a solution that could aid in the avoidance and de-escalation of incidents, and provide visibility and opportunities for people to come up and support others with the experience they gained while tackling the same issue.
 ## Demo video
 
-[![Watch the video] <iframe width="560" height="315" src="https://www.youtube.com/embed/2nPC_KJYwgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video] <iframe width="560" height="315" src="https://www.youtube.com/embed/V_xp4COOQbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The architecture
 ![image](https://user-images.githubusercontent.com/9826319/122588032-38a82d80-d07c-11eb-8f9b-5f72cc3810df.png)
