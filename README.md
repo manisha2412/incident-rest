@@ -20,6 +20,8 @@ This application shows how to connect to a Cloudant database using the official 
   - [The architecture](#the-architecture)
   - [Project roadmap](#project-roadmap)
   - [Future Scope](#future-scope)
+  - [Built with](#built-with)
+  - [App Link](#app-link)
   
 
 ## Short description
@@ -89,8 +91,18 @@ We have such cases where people may need help financially or they need security.
 
 
 ## Future Scope
--Enable members of the public to record incidents through a mobile app in a quick, near real   time, and safe manner
--Central map view to enable search & visualization of incident clusters
+-Enable members of the public to record incidents through a mobile app in a quick, near real time and safe manner.
+-Central map view to enable search & visualization of incident clusters.
+-Language translator can you used to have it in multiple languages.
+- AI can be used to display most relevant incidents.
 
+## Built with
 
+- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+- [Heroku](https://www.heroku.com/)-Hosted on
+- [Maven](https://maven.apache.org/) - Dependency management
+- [React](https://reactjs.org/)-UI
 
+## App Link
+
+https://incident-ui-app.herokuapp.com/
